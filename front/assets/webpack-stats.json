@@ -1,0 +1,1 @@
+{"status":"done","chunks":{"main":[{"name":"bundle.js","path":"C:\\Users\\also_\\Projects\\RRSS_EC\\Completo\\front\\assets\\webpack_bundles\\bundle.js"}]},"error":"unknown-error","message":"[tsl] ERROR in C:\\Users\\also_\\Projects\\RRSS_EC\\Completo\\front\\src\\Chat.tsx(20,17)\r\n      TS2339: Property 'on' does not exist on type 'WebSocket'."}
